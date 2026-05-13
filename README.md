@@ -1,7 +1,7 @@
 # ino launcher #
 unofficial minecraft java launcher. minimal, offline-capable, and stable.
 
-> 1.12.2 only — offline & online accounts supported
+> 1.12.2 only — 
 
 ---
 
