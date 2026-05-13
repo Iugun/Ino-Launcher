@@ -30,4 +30,4 @@ working on making this easier. bear with me :)
 
 ---
 
-*made with frustration and love by [1ugun](https://github.com/1ugun)*
+*made with frustration and love by 1ugun <3*
